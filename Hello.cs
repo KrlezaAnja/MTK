@@ -8,4 +8,3 @@ public class Hello
       System.Console.WriteLine("Hello, Local!");
    }
 }
-$ git add
